@@ -7,7 +7,7 @@
     "start": "node index.js",
     "server": "nodemon index.js"
   },
-  "author": "Samuel Fils",
+  "author": "Devanjoy Das",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
